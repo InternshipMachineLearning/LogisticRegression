@@ -1,0 +1,1 @@
+https://logisticmodel.streamlit.app/
